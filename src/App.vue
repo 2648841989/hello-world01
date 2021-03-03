@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-      <p>年薪30w年薪30w年薪30w年薪30w年薪30w年薪30w</p>
+      <p>年薪30w年薪30w年hahaahhaah薪30w年薪30w年薪30w年薪30w</p>
       <p>年薪30w年薪30w年薪30w年薪30w年薪30w年薪30w</p>
       <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
       <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
