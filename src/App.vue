@@ -3,16 +3,18 @@
 
       <p>年薪30w年薪30w年薪30w年薪30w年薪30w年薪30w</p>
       <p>年薪30w年薪30w年薪30w年薪30w年薪30w年薪30w</p>
-      <p>年薪30w年薪30w年薪30w年薪30w年薪30w年薪30w</p>
-      <p>年薪30w年薪30w年薪30w年薪30w年薪30w年薪30w</p>
-      <p>年薪30w年薪30w年薪30w年薪30w年薪30w年薪30w</p>
+      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
+      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
+      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
+      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
+      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
+      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
       <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
       <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
       <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
       <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
       <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
-      <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
-   <img src="https://sh0821-gulionline1.oss-cn-shanghai.aliyuncs.com/2021-01-20/0d266ea4-63c5-47e4-84b9-752f844d4d06_1img-160895303434299c46a81d363a7454a91f2fe59387763.jpg"/>
+   <img src="https://sh0821-gulionline1.oss-cn-shanghai.aliyuncs.com/08780a5bd5053229b6bc3aff8f4dff7.jpg"/>
   </div>
 </template>
 
