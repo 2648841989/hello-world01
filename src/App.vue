@@ -1,20 +1,21 @@
 <template>
   <div id="app">
 
-      <p>年薪30w年薪30薪30w年薪30w年薪30w</p>
-      <p>年薪30w年薪30w年薪30w年薪30w年薪30w年薪30w</p>
-      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
-      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
-      <p>祝 哈啊啊哈哈哈offer</p>
-      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
-      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
-      <p>祝 哈哈哈哈哈哈哈哈啊啊哈哈哈offer</p>
-      <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
-      <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
-      <p>祝 java0821 全体同学 拿到自己心仪的dddddddddddddddddddoffer</p>
-      <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
-      <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
-   <img src="https://sh0821-gulionline1.oss-cn-shanghai.aliyuncs.com/08780a5bd5053229b6bc3aff8f4dff7.jpg"/>
+      <p>走过南，闯过北，厕所后面喝过水，火车道上压过腿</p>
+      <p>走过南，闯过北，厕所后面喝过水，火车道上压过腿</p>
+      <p>走过南，闯过北，厕所后面喝过水，火车道上压过腿</p>
+      <p>走过南，闯过北，厕所后面喝过水，火车道上压过腿</p>
+      <p>走过南，闯过北，厕所后面喝过水，火车道上压过腿</p>
+      <p>走过南，闯过北，厕所后面喝过水，火车道上压过腿</p>
+      <p>走过南，闯过北，厕所后面喝过水，火车道上压过腿</p>
+      <p>走过南，闯过北，厕所后面喝过水，火车道上压过腿</p>
+      <h2>社会文子</h2>
+      <h2>社会文子</h2>
+      <h2>社会文子</h2>
+      <h2 :style="styleObj">社会文子</h2>
+      <h2>社会文子</h2>
+
+   <img src="https://sh0821-gulionline1.oss-cn-shanghai.aliyuncs.com/b0f885569a66db6819b6884a5b88d47.jpg"/>
   </div>
 </template>
 
@@ -24,8 +25,15 @@ import HelloWorld from './components/HelloWorld'
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    HelloWorld,
+
+
+  },
+    el:"#app",
+    data:{
+        styleObj:{color:'red','font-weight':200},
+    }
+
 }
 </script>
 
@@ -37,5 +45,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+    width:200px;
+    height: 350px;
+
 }
 </style>
